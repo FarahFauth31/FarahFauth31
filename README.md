@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarahFauth31
-- 👀 I’m interested in Astrophysics, in particular Stellar Evolution, Cosmology and Planetary Sciences.
-- 🌱 I’m currently learning Data Analysis techniques and Machine Learning
-- 💞️ I’m looking to collaborate on anything, SURPRISE ME! I am always eager to learn more and get out of my comfort zone!
+- 👀 I’m interested in Stellar Evolution, Cosmology and Planetary Sciences.
+- 🌱 I’m currently working on my Master's thesis in the Center for Astrophysics | Harvard & Smithsonian. I am expanding my skills in Data Analysis techniques, Machine Learning and Public Speaking.
+- 💞️ I am always eager to learn more and get out of my comfort zone!
 - 📫 How to reach me: farah.fauth_puigdomenech@cfa.harvard.edu
 
 <!---
